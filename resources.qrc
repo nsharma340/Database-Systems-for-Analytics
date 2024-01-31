@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/close.png</file>
+    <file>icons/logo_main_alt-1.png</file>
+    <file>icons/logo_icon_alt-1.png</file>
+    <file>icons/logo_title_alt-12.png</file>
+    <file>icons/plus.png</file>
+    <file>icons/create_orders.png</file>
+    <file>icons/search.png</file>
+    <file>icons/logo_title_alt-1.png</file>
+    <file>icons/orders.png</file>
+    <file>icons/feedback.png</file>
+    <file>icons/complaints.png</file>
+    <file>icons/inventory.png</file>
+    <file>icons/customer.png</file>
+    <file>icons/employee.png</file>
+    <file>icons/enter_employee.png</file>
+    <file>icons/employee_dashboard.png</file>
+    <file>icons/sales_dashboard.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/exit.png</file>
+  </qresource>
+</RCC>
